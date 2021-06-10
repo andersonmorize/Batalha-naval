@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "lib/batalha-naval/BatalhaNaval.h"
-#include "lib/mysocket/mysocket.h"
+#include "batalha-naval/BatalhaNaval.h"
+#include "mysocket/mysocket.h"
 
 using namespace std;
 
